@@ -5,7 +5,9 @@
 3) Mul
 4) Div
 5) Exit
+###
 ================
+####
 Enter your choice: 1
 Number 1: 100
 Number 2: 11
