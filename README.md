@@ -8,10 +8,10 @@
 ###
 ================
 ####
-Enter your choice: 1
-Number 1: 100
-Number 2: 11
-Result: 111
-Wants to Continue?(y/n)
-n
-Exit
+Enter your choice: 1###
+Number 1: 100###
+Number 2: 11###
+Result: 111###
+Wants to Continue?(y/n)###
+n###
+Exit###
